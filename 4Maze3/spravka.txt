@@ -1,0 +1,20 @@
+          
+          
+          
+          
+          
+          
+          HISTORY: 
+
+           The project was done by Lolo Muhammad, a student of group P26
+           It took a week to create this game
+
+
+            Rules:
+
+            -If you cross paths with an enemy, your life is reduced by 20.
+            -If you want to heal yourself, there is a first aid kit.
+            -To win you have to find a way out of the maze or collect all the coins.
+
+
+            Press Escape to return 

@@ -1,0 +1,2 @@
+C:\Users\lolim\Desktop\C++\4Maze3\x64\Debug\4Maze3.exe
+D:\C++\C++\4Maze3\x64\Debug\4Maze3.exe
